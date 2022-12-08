@@ -1,0 +1,5 @@
+/* The container must be positioned relative: */
+.custom-select {
+    padding: 16px 20px;
+    margin-bottom: 20px;
+}
