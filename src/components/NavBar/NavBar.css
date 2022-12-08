@@ -1,0 +1,16 @@
+.link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.link.active {
+    color: #333;
+}
+
+.link-admin {
+    background: #333;
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+}
